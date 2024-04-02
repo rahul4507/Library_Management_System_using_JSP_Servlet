@@ -53,6 +53,9 @@ Deploy the application on Apache Tomcat or any other servlet container following
 ## Screenshots
 
 ### Homepage
+![image](https://github.com/rahul4507/Library_Management_System_using_JSP_Servlet/assets/108340339/53db53e5-4220-4c6b-9879-d347bff73eba)
+
+###Book Details
 ![image](https://github.com/rahul4507/Library_Management_System_using_JSP_Servlet/assets/108340339/82b47054-e99f-46ae-a4dc-7344c0b29260)
 
 ## Contributing
