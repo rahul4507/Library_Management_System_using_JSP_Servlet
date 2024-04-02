@@ -29,7 +29,7 @@ You will need the following software installed on your machine:
 
 1. Build the project.
 2. Deploy the project on Apache Tomcat server.
-3. Open a web browser and navigate to the URL where the application is deployed (e.g., http://localhost:8080/LibraryManagementSystem).
+3. Open a web browser and navigate to the URL where the application is deployed (e.g., http://localhost:8080/Library_Management_System).
 
 ## Running the Tests
 
@@ -55,9 +55,18 @@ Deploy the application on Apache Tomcat or any other servlet container following
 Contributions to the project are welcome. Fork the repository, make your changes, and submit a pull request. Make sure your code follows the project's coding standards and guidelines.
 
 ## License
+Copyright (c) [2024] Saurabh Pawar and Rahul Hiragond
 
-Provide licensing information for your project here.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Acknowledgments
 
-Acknowledge any individuals or organizations whose work or contributions have been used or inspired your project.
+## Acknowledgments
+
+We would like to express our gratitude to the following individuals and organizations for their contributions and inspiration to this project:
+
+- [Omkar Patil]
+- [Sreyash Bhosale]
+
